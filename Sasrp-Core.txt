@@ -1,1 +1,1 @@
-{"version":"0.1.1", "notes":"Your rights to cfx-catty-core has been revoked!"}
+{"version":"1.0.0", "notes":"Your rights to cfx-catty-core has been revoked!"}
