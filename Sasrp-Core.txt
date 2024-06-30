@@ -1,1 +1,1 @@
-{"version":"2.1.0", "notes":"Added more features like : No reticle, discord ban syncing, Discord ace perms based from badger's ace perms!"}
+{"version":"3.0.0", "notes":"Completely redone the core, now it includes a new and more performant hud, new priority & peactime system, a VPN system and more"}
